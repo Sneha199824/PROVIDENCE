@@ -1,0 +1,260 @@
+.navbar-brand img{
+    width: 200px;
+    height: 70px;
+}a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 2px;
+    border:1px;
+    border-radius: 5px;
+    font-size: 10px;
+} .fa-solid{
+    position: absolute;
+    right: 10px;
+    padding: 3px;
+    color: black;
+    
+    
+}
+.bg-body-tertiary {
+    background-color: black!important;
+}.form-control{
+    position: relative;
+    width: 380px;
+    height: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}.carousel-indicators{
+
+    color: aqua;
+} .text-center{
+    margin-top: 50px;
+}.text-center .row .col-lg-3{
+    border: 1px solid;
+    border-radius: 7px;
+    padding: 30px;
+    margin: 15px;
+    height: 150px;
+    width: 250px;
+
+}.text-center .row{
+    
+}.text-center .row .col-lg-3 img{
+    height: 50px;
+    width: 50px;
+}.text-center1{
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.text-center1 .pra{
+    background-image: url(/assets/image/Mask\ Group\ 164\ \(1\).png);
+    height: 200px;
+    width: 250px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin: 15px;
+}.text-center1 .pra-1{
+   background-image: url(/assets/image/Mask\ Group\ 3\ \(1\).png);
+   height: 200px;
+   width: 250px;
+   border: 1px solid;
+   border-radius: 10px;
+   margin: 15px;
+
+}.text-center1 .pra-2{
+ background-image: url(/assets/image/Mask\ Group\ 165\ \(1\).png);
+ height: 200px;
+ width: 250px;
+ border: 1px solid;
+ border-radius: 10px;
+ margin: 15px;
+
+}.text-center1 .pra-3{
+    height: 200px;
+    width: 250px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin: 15px;
+ background-image: url(/assets/image/Mask\ Group\ 166\ \(1\).png);
+}.text-center1 .col-lg-3 p{
+    border: 1px solid;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 150px;
+    height: 150px;
+    width:220px ;
+    background-color: white;
+    color: black;
+}.text-item{
+    margin-top: 120px;
+    text-align: center;
+    padding-top: 30px;
+    background-image:url(/assets/image/blue.AVIF);
+}.text-item .col-lg-4 img{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px:
+}#carouselExampleControlsNoTouching .carousel-item .col-lg-4{
+    background-image: url(/assets/image/Path\ 41\ \(1\).png);
+    margin:auto;
+    
+    padding: 20px;
+    height: 220px;
+    width: 250px;
+    background-color: white;
+    color: black;
+    
+}#carouselExampleControlsNoTouching .carousel-item img{
+ height: 50px;
+ display: flex;
+ width: 50px;
+ 
+ 
+}#carouselExampleControlsNoTouching{
+    text-align: center;
+    margin-top: 80px;
+    
+   
+}.text{
+    background-image: url(/assets/image/wp.webp);
+    align-items: center;
+    
+}   
+    
+#carouselExampleControlsNoTouching .carousel-item .row{
+    margin-top: 40px;
+    
+     
+}.carousel-item.active{
+    display: flex;
+}.about-text{
+    text-align: center;
+    margin-top: 50px;
+}.about-text h6{
+    text-shadow: 0px -2px 11px rgba(202,186,186,0.41);
+    font-size: 15px;
+    color: rgb(124, 131, 131);
+    
+}.about-text .col-lg-3 h2{
+    color: aqua;
+    text-shadow: 0px -2px 11px rgba(202,186,186,0.41);
+    font-size: 40px;
+
+}.end-text ul li{
+    list-style-type: none;
+    padding-left: 65px;
+
+}.end-text h6{
+    text-align: center;
+    font: bold;
+
+}.end-text .col-lg-3{
+    
+}.end-text p{
+    padding-left: 90px;
+}.end-text1 span a{
+    background-color: white;
+    color: aqua;
+    font-size: 20px;
+    font-weight: 900;
+}.end-text1 p a{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+    
+}.end-text1 p{
+    padding-left: 500px;
+}
+@media (min-width:270px)and(max-width:1280px) {
+   .text-center .row{
+    margin:auto;
+   }
+   .text-center h3{
+    
+   }
+   .text-center1 .row .col-lg-3{
+
+    margin:150px;
+   }
+    
+}.text1 .row{
+    text-align: center;
+    background-image: url(/assets/image/Mask\ Group\ 175\ \(1\).svg);
+    padding: 40px;
+}.content img{
+    margin-top: 50px;
+    height: 200px;
+    width: 280px;
+    border: 1px solid white;
+}.category{
+    text-align: center;
+    margin-top: 60px;}
+.category h3{
+ padding-bottom: 20px;
+}
+.category img{
+    height: 150px;
+    width: 250px;
+    margin-top: 20px;
+}.category .col-lg-4{
+    padding: 20px;
+    border: 1px solid;
+    height: 350px;
+    width: 280px;
+    border-radius: 20px;
+    margin: 10px;
+}.category .row{
+    margin-left:110px;
+}.category a{
+    font-size: 10px;
+    padding:8px 35px 8px 35px;
+    border: 1px solid rgb(112, 110, 110);
+    border-radius: 20px;
+    background-color: rgb(58, 58, 58);
+}.category h2{
+    font-size: 25px;
+    font-weight: 700;
+}
+.service{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}.service h5{
+    font-weight: 700;
+    padding: 20px;
+}.service p{
+    padding: 5px;
+}.service a{
+    padding: 8px 30px 8px 30px;
+    border: 1px solid rgb(124, 127, 129);;
+    border-radius: 20px;
+    background-color: white;
+    color: rgb(124, 127, 129);
+    font-size: 15px;
+    margin-top: 20px;
+    
+}.product img{
+   width: 40%;
+   margin: 20px;
+}.product .row{
+    margin: auto;
+    width: 100%;
+    display: inline-flex;
+}.product ul li{
+    list-style-type: circle;
+}.product .col-lg-6{
+    width: 100%;
+    
+}.product a{
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}.Policy{
+    text-align: center;
+    margin-top: 20px;
+    padding: 30px;
+}
