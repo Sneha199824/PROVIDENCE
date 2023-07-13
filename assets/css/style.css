@@ -11,7 +11,7 @@
     font-size: 10px;
 } .fa-solid{
     position: absolute;
-    right: 10px;
+    right: 30px;
     padding: 3px;
     color: black;
     
@@ -97,30 +97,44 @@
     height: 50px;
     width: 50px;
     margin-top: 20px:
-}#carouselExampleControlsNoTouching .carousel-item .col-lg-4{
-    background-image: url(/assets/image/Path\ 41\ \(1\).png);
-    margin:auto;
+}.owl-theme{
     
-    padding: 20px;
+    margin-top: 50px;
+    text-align: center;
+     background-image: url(/assets/image/wp.webp);
+}
+.owl-theme .item1{
+    background-image: url(/assets/image/Path\ 41\ \(1\).png);
+    
+    
+    margin: auto;
     height: 220px;
-    width: 250px;
+    width: 200px;
     background-color: white;
     color: black;
     
-}#carouselExampleControlsNoTouching .carousel-item img{
- height: 50px;
- display: flex;
- width: 50px;
+}.owl-theme .item1 img{
+ height: 70px;
+ margin:10px;
+ width: 70px;
+
  
  
-}#carouselExampleControlsNoTouching{
+}.owl-theme .text1 p{
+ padding-top: 5px;
+ 
+}.owl-theme .text1 h6{
+    padding-top: 5px;
+}
+#carouselExampleControlsNoTouching{
     text-align: center;
     margin-top: 80px;
     
    
 }.text{
-    background-image: url(/assets/image/wp.webp);
-    align-items: center;
+   text-align: center;
+   padding-top: 60px;
+
     
 }   
     
@@ -238,22 +252,30 @@
     margin-top: 20px;
     
 }.product img{
-   width: 40%;
-   margin: 20px;
+   width: 100%;
+   height: 80%;
+   
 }.product .row{
-    margin: auto;
+    margin-top: 20px;
     width: 100%;
-    display: inline-flex;
+    padding: 10px;
 }.product ul li{
-    list-style-type: circle;
+    list-style-type: square;
 }.product .col-lg-6{
-    width: 100%;
+    
     
 }.product a{
-    margin: 5px;
-    padding: 10px;
+    font-size: 15px;
+    margin:20px;
+    padding: 5px 30px 5px 30px;
+    border: 1px solod;
+    border-radius: 5px;
+   
     text-align: center;
-}.Policy{
+}.product h3{
+    font-weight: 700;
+}
+.Policy{
     text-align: center;
     margin-top: 20px;
     padding: 30px;
