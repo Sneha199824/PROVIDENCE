@@ -96,55 +96,13 @@
 }.text-item .col-lg-4 img{
     height: 50px;
     width: 50px;
-    margin-top: 20px:
+    margin-top: 20px:  
 }.owl-theme{
     
-    margin-top: 50px;
-    text-align: center;
-     background-image: url(/assets/image/wp.webp);
-}
-.owl-theme .item1{
-    background-image: url(/assets/image/Path\ 41\ \(1\).png);
+    margin-top: 30px;
+    text-align: center;}
     
-    
-    margin: auto;
-    height: 220px;
-    width: 200px;
-    background-color: white;
-    color: black;
-    
-}.owl-theme .item1 img{
- height: 70px;
- margin:10px;
- width: 70px;
-
- 
- 
-}.owl-theme .text1 p{
- padding-top: 5px;
- 
-}.owl-theme .text1 h6{
-    padding-top: 5px;
-}
-#carouselExampleControlsNoTouching{
-    text-align: center;
-    margin-top: 80px;
-    
-   
-}.text{
-   text-align: center;
-   padding-top: 60px;
-
-    
-}   
-    
-#carouselExampleControlsNoTouching .carousel-item .row{
-    margin-top: 40px;
-    
-     
-}.carousel-item.active{
-    display: flex;
-}.about-text{
+.about-text{
     text-align: center;
     margin-top: 50px;
 }.about-text h6{
