@@ -4,12 +4,15 @@
 body{
     height: 100%;
     width: 100%;
-}*{
-    
-    
-    
-    
+}.dropdown-toggle{
+    background-color: black;
+    border: none;
 }
+    
+    
+    
+    
+
 a{
 
     text-decoration: none;
