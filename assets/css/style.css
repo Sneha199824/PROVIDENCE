@@ -160,12 +160,20 @@ margin: auto;}
 }
 @media(max-width:976px){
 .content img{
-    margin-left: 50px;
+    margin-left: 80px;
 }.category .row{
     margin:auto;
 }.end-text .row{
     text-align: left;
+}.product a{
+    margin: 10px;
 }
+.category h3 {
+    padding-right: ;
+}
+.product img{margin-left: 10px;}
+.container.content {
+    margin: 40px;}
    
 }.text1 .row{
     text-align: center;
